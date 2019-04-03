@@ -12,7 +12,7 @@
 	<form action="AnotacionServlet" method="post">
 	
 	<label>Ingrese usuario </label><input name="usuario" type="text">
-	<label>Ingrese contraseña </label><input name="contra" type="text" >
+	<label>Ingrese contraseña </label><input name="contra" type="password" >
 	<input type="submit" value="Log In">
 	</form>
 </body>
